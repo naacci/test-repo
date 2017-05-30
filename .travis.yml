@@ -2,3 +2,5 @@ language: bash
 script:
   - echo "test1 test"
   - ./test.sh
+  - echo "test1 test"
+  - ./test_same.sh
